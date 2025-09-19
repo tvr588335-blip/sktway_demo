@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  background-color: #111;
+  height: 400px;
+}
+
+.item {
+  margin-bottom: 5px;
+}
